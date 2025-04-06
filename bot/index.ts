@@ -4,7 +4,7 @@ import { Telegraf } from 'telegraf';
 
 const bot = new Telegraf(process.env.BOT_TOKEN as string);
 
-const MINI_APP_URL = 'http://localhost:80/';
+const MINI_APP_URL = 'https://bubblemaps.vercel.app/home.html';
 
 bot.start((ctx : Context) => {
   ctx.reply('Welcome to BubbleMap Viewer! Send me a token address and blockchain in format: token/chain');
@@ -19,7 +19,7 @@ bot.help((ctx : Context) => {
   );
 });
 
-bot.hears(/^(0x[a-fA-F0-9]+)\/(bsc|eth|polygon)$/i, (ctx : Context) => {
+bot.hears(/^(0x[a-fA-F0-9]+)\/(bsc|eth|polygon|sol)$/i, (ctx : Context) => {
   const token = ctx.match[1];
   const chain = ctx.match[2].toLowerCase();
   
@@ -44,6 +44,37 @@ bot.hears(/^(0x[a-fA-F0-9]+)$/i, (ctx : Context) => {
         [{
           text: 'Open Bubblemap',
           web_app: { url: `${MINI_APP_URL}?token=${token}&chain=bsc` }
+        }]
+      ]
+    }
+  });
+});
+
+bot.hears(/^([1-9A-HJ-NP-Za-km-z]{32,44})\/(sol)$/i, (ctx : Context) => {
+  const token = ctx.match[1];
+  const chain = ctx.match[2].toLowerCase();
+  console.log(`${MINI_APP_URL}?token=${token}&chain=${chain}`);
+  ctx.reply(`Token: ${token}\nChain: ${chain}`, {
+    reply_markup: {
+      inline_keyboard: [
+        [{
+          text: 'Open Bubblemap',
+          web_app: { url: `${MINI_APP_URL}?token=${token}&chain=${chain}` }
+        }]
+      ]
+    }
+  });
+});
+
+bot.hears(/^([1-9A-HJ-NP-Za-km-z]{32,44})$/i, (ctx : Context) => {
+  const token = ctx.match[1];
+  console.log(`${MINI_APP_URL}?token=${token}&chain=sol`);
+  ctx.reply(`Token: ${token}\nChain: sol (default)`, {
+    reply_markup: {
+      inline_keyboard: [
+        [{
+          text: 'Open Bubblemap',
+          web_app: { url: `${MINI_APP_URL}?token=${token}&chain=sol` }
         }]
       ]
     }
