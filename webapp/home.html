@@ -48,7 +48,7 @@
     const urlParams = new URLSearchParams(window.location.search);
     const token = urlParams.get('token');
     const chain = urlParams.get('chain') || 'bsc'; 
-    if (token && token.startsWith('0x')) {
+    if (token) {
       const src = `https://app.bubblemaps.io/${chain}/token/${token}`;
       iframe.src = src;
       
