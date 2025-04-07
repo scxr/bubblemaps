@@ -30,11 +30,16 @@ export interface Nodes {
     address: string;
     amount: number;
     is_contract: boolean;
+    is_exchange: boolean;
     name: string;
     percentage: number;
     transaction_count: number;
     transfer_X721_count: number | null;
     transfer_count: number;
+}
+
+export interface Node {
+    
 }
 
 export interface TokenLink {

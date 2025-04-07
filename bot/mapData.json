@@ -1,0 +1,2887 @@
+{
+  "chain": "sol",
+  "dt_update": "Mon, 07 Apr 2025 00:37:14 GMT",
+  "full_name": "BOOK OF MEME",
+  "id": "N1mxq1KSFQZsynq45MLE",
+  "is_X721": false,
+  "links": [
+    {
+      "backward": 0,
+      "forward": 44050,
+      "source": 40,
+      "target": 149
+    },
+    {
+      "backward": 0,
+      "forward": 7701.1,
+      "source": 40,
+      "target": 45
+    },
+    {
+      "backward": 38000,
+      "forward": 10,
+      "source": 42,
+      "target": 47
+    },
+    {
+      "backward": 0,
+      "forward": 76270.9851,
+      "source": 4,
+      "target": 44
+    },
+    {
+      "backward": 174488,
+      "forward": 160000,
+      "source": 47,
+      "target": 51
+    },
+    {
+      "backward": 0,
+      "forward": 988.8417999999999,
+      "source": 47,
+      "target": 49
+    },
+    {
+      "backward": 0,
+      "forward": 5868.569863735,
+      "source": 49,
+      "target": 93
+    },
+    {
+      "backward": 6972.731082904999,
+      "forward": 87.5820982,
+      "source": 49,
+      "target": 61
+    },
+    {
+      "backward": 0,
+      "forward": 2038.9869999999999,
+      "source": 14,
+      "target": 49
+    },
+    {
+      "backward": 8000,
+      "forward": 0,
+      "source": 50,
+      "target": 81
+    },
+    {
+      "backward": 0,
+      "forward": 30499.967999999997,
+      "source": 14,
+      "target": 52
+    },
+    {
+      "backward": 0,
+      "forward": 4233936.275552049,
+      "source": 58,
+      "target": 82
+    },
+    {
+      "backward": 0,
+      "forward": 57875.68500000001,
+      "source": 14,
+      "target": 58
+    },
+    {
+      "backward": 1380.4509,
+      "forward": 0,
+      "source": 58,
+      "target": 110
+    },
+    {
+      "backward": 0,
+      "forward": 14259.729999999998,
+      "source": 4,
+      "target": 58
+    },
+    {
+      "backward": 26451.926250468005,
+      "forward": 47000,
+      "source": 59,
+      "target": 76
+    },
+    {
+      "backward": 1340.653798006,
+      "forward": 0,
+      "source": 61,
+      "target": 93
+    },
+    {
+      "backward": 2136.331253808,
+      "forward": 0,
+      "source": 61,
+      "target": 80
+    },
+    {
+      "backward": 130.04436479,
+      "forward": 0,
+      "source": 62,
+      "target": 110
+    },
+    {
+      "backward": 207537.16100000005,
+      "forward": 0,
+      "source": 63,
+      "target": 79
+    },
+    {
+      "backward": 868870.715958159,
+      "forward": 0,
+      "source": 6,
+      "target": 64
+    },
+    {
+      "backward": 0,
+      "forward": 168359,
+      "source": 14,
+      "target": 64
+    },
+    {
+      "backward": 17422,
+      "forward": 0,
+      "source": 64,
+      "target": 114
+    },
+    {
+      "backward": 0,
+      "forward": 694.9905,
+      "source": 47,
+      "target": 64
+    },
+    {
+      "backward": 0,
+      "forward": 4369.96,
+      "source": 4,
+      "target": 64
+    },
+    {
+      "backward": 1577.9998,
+      "forward": 0,
+      "source": 64,
+      "target": 110
+    },
+    {
+      "backward": 0,
+      "forward": 5450,
+      "source": 46,
+      "target": 64
+    },
+    {
+      "backward": 457807.864678002,
+      "forward": 374500.01,
+      "source": 65,
+      "target": 102
+    },
+    {
+      "backward": 0,
+      "forward": 21,
+      "source": 32,
+      "target": 67
+    },
+    {
+      "backward": 0,
+      "forward": 2909.735,
+      "source": 68,
+      "target": 79
+    },
+    {
+      "backward": 11000,
+      "forward": 0,
+      "source": 16,
+      "target": 68
+    },
+    {
+      "backward": 0,
+      "forward": 949.97,
+      "source": 14,
+      "target": 69
+    },
+    {
+      "backward": 0,
+      "forward": 1,
+      "source": 4,
+      "target": 77
+    },
+    {
+      "backward": 0,
+      "forward": 1591.85362,
+      "source": 6,
+      "target": 79
+    },
+    {
+      "backward": 0,
+      "forward": 12917.085,
+      "source": 4,
+      "target": 79
+    },
+    {
+      "backward": 0,
+      "forward": 1198.1284,
+      "source": 47,
+      "target": 79
+    },
+    {
+      "backward": 1566.064969408,
+      "forward": 3111.727446702999,
+      "source": 80,
+      "target": 93
+    },
+    {
+      "backward": 455.49583887299997,
+      "forward": 0,
+      "source": 49,
+      "target": 80
+    },
+    {
+      "backward": 0,
+      "forward": 8088.7184294,
+      "source": 14,
+      "target": 81
+    },
+    {
+      "backward": 21378.539999999997,
+      "forward": 11600.1,
+      "source": 88,
+      "target": 116
+    },
+    {
+      "backward": 0,
+      "forward": 19790.25573267999,
+      "source": 14,
+      "target": 89
+    },
+    {
+      "backward": 0,
+      "forward": 9282.3238845,
+      "source": 14,
+      "target": 91
+    },
+    {
+      "backward": 0.2,
+      "forward": 0,
+      "source": 26,
+      "target": 106
+    },
+    {
+      "backward": 0,
+      "forward": 12999.993999999999,
+      "source": 14,
+      "target": 106
+    },
+    {
+      "backward": 7852.5493,
+      "forward": 4338.93,
+      "source": 13,
+      "target": 107
+    },
+    {
+      "backward": 0,
+      "forward": 9,
+      "source": 110,
+      "target": 113
+    },
+    {
+      "backward": 218200,
+      "forward": 0,
+      "source": 46,
+      "target": 114
+    },
+    {
+      "backward": 0,
+      "forward": 644013,
+      "source": 14,
+      "target": 114
+    },
+    {
+      "backward": 0,
+      "forward": 4386.995,
+      "source": 102,
+      "target": 114
+    },
+    {
+      "backward": 2000,
+      "forward": 2000,
+      "source": 16,
+      "target": 115
+    },
+    {
+      "backward": 0,
+      "forward": 0.99679229,
+      "source": 14,
+      "target": 117
+    },
+    {
+      "backward": 0,
+      "forward": 6234.69720632,
+      "source": 14,
+      "target": 120
+    },
+    {
+      "backward": 0,
+      "forward": 0.945,
+      "source": 14,
+      "target": 124
+    },
+    {
+      "backward": 0,
+      "forward": 6.39,
+      "source": 14,
+      "target": 125
+    },
+    {
+      "backward": 0,
+      "forward": 1491.0810825499998,
+      "source": 4,
+      "target": 126
+    },
+    {
+      "backward": 0,
+      "forward": 734.1544851699999,
+      "source": 14,
+      "target": 129
+    },
+    {
+      "backward": 0,
+      "forward": 5374.810935809999,
+      "source": 34,
+      "target": 132
+    },
+    {
+      "backward": 0,
+      "forward": 2.090717529,
+      "source": 46,
+      "target": 133
+    },
+    {
+      "backward": 0,
+      "forward": 242.886,
+      "source": 14,
+      "target": 134
+    },
+    {
+      "backward": 0,
+      "forward": 76.51506332,
+      "source": 14,
+      "target": 137
+    },
+    {
+      "backward": 0,
+      "forward": 1.477697133,
+      "source": 110,
+      "target": 140
+    },
+    {
+      "backward": 0,
+      "forward": 21027.616,
+      "source": 14,
+      "target": 141
+    },
+    {
+      "backward": 0,
+      "forward": 23.99963,
+      "source": 14,
+      "target": 142
+    },
+    {
+      "backward": 0,
+      "forward": 586.83659,
+      "source": 14,
+      "target": 144
+    },
+    {
+      "backward": 0,
+      "forward": 1.18808,
+      "source": 68,
+      "target": 146
+    },
+    {
+      "backward": 0,
+      "forward": 7.0542604099999995,
+      "source": 14,
+      "target": 147
+    },
+    {
+      "backward": 0,
+      "forward": 19962,
+      "source": 14,
+      "target": 46
+    },
+    {
+      "backward": 1262322,
+      "forward": 2493583.1,
+      "source": 0,
+      "target": 5
+    },
+    {
+      "backward": 7000000,
+      "forward": 0,
+      "source": 0,
+      "target": 1
+    },
+    {
+      "backward": 10099.99,
+      "forward": 4934509,
+      "source": 0,
+      "target": 14
+    },
+    {
+      "backward": 1797957.974,
+      "forward": 1200000,
+      "source": 1,
+      "target": 14
+    },
+    {
+      "backward": 0,
+      "forward": 1841.44556,
+      "source": 6,
+      "target": 23
+    },
+    {
+      "backward": 328434.37231693004,
+      "forward": 0,
+      "source": 7,
+      "target": 14
+    },
+    {
+      "backward": 0,
+      "forward": 401000,
+      "source": 9,
+      "target": 30
+    },
+    {
+      "backward": 0,
+      "forward": 247729.571107,
+      "source": 10,
+      "target": 13
+    },
+    {
+      "backward": 0,
+      "forward": 17036.7974908,
+      "source": 14,
+      "target": 25
+    },
+    {
+      "backward": 0,
+      "forward": 11391.449519000002,
+      "source": 14,
+      "target": 28
+    },
+    {
+      "backward": 52000,
+      "forward": 44381.011,
+      "source": 29,
+      "target": 47
+    },
+    {
+      "backward": 0,
+      "forward": 19806.54181951,
+      "source": 14,
+      "target": 33
+    },
+    {
+      "backward": 0,
+      "forward": 9999.998,
+      "source": 14,
+      "target": 36
+    },
+    {
+      "backward": 0,
+      "forward": 0.01,
+      "source": 37,
+      "target": 68
+    },
+    {
+      "backward": 0,
+      "forward": 1709414,
+      "source": 13,
+      "target": 85
+    },
+    {
+      "backward": 0,
+      "forward": 0.5,
+      "source": 15,
+      "target": 31
+    },
+    {
+      "backward": 0,
+      "forward": 6467.5,
+      "source": 17,
+      "target": 38
+    },
+    {
+      "backward": 1708,
+      "forward": 15000,
+      "source": 18,
+      "target": 19
+    },
+    {
+      "backward": 0,
+      "forward": 2026635,
+      "source": 24,
+      "target": 47
+    }
+  ],
+  "metadata": {
+    "max_amount": 18634152700685176,
+    "min_amount": 11881234500006
+  },
+  "nodes": [
+    {
+      "address": "3gd3dqgtJ4jWfBfLYTX67DALFetjc5iS72sCgRhCkW2u",
+      "amount": 18634152700685176,
+      "is_contract": false,
+      "percentage": 27.024356275967804,
+      "transaction_count": 1625
+    },
+    {
+      "address": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+      "amount": 11235556609628000,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Binance",
+      "percentage": 16.294472287233503,
+      "transaction_count": 2000
+    },
+    {
+      "address": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+      "amount": 7567542888378470,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Raydium Authority V4",
+      "percentage": 10.97490068017348,
+      "transaction_count": 2000
+    },
+    {
+      "address": "C68a6RCGLiPskbPYtAcsCjhG8tfTWYcoB4JjCrXFdqyo",
+      "amount": 3562540834908408,
+      "is_contract": false,
+      "percentage": 5.166608555628536,
+      "transaction_count": 4000
+    },
+    {
+      "address": "AC5RDfQFmDS1deWZos921JfqscXdByf8BKHs5ACWjtW2",
+      "amount": 2883539947815975,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Bybit",
+      "percentage": 4.181881094217887,
+      "transaction_count": 2000
+    },
+    {
+      "address": "6QJzieMYfp7yr3EdrePaQoG3Ghxs2wM98xSLRu8Xh56U",
+      "amount": 2074325463000001,
+      "is_contract": false,
+      "percentage": 3.008310130589553,
+      "transaction_count": 553
+    },
+    {
+      "address": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
+      "amount": 2048988950700177,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Gate.Io",
+      "percentage": 2.971565613885249,
+      "transaction_count": 2000
+    },
+    {
+      "address": "GBrURzmtWujJRTA3Bkvo7ZgWuZYLMMwPCwre7BejJXnK",
+      "amount": 1314140636760003,
+      "is_contract": false,
+      "percentage": 1.9058448932439882,
+      "transaction_count": 262
+    },
+    {
+      "address": "A77HErqtfN1hLLpvZ9pCtu66FEtM8BveoaKbbMoZ4RiR",
+      "amount": 1089811029036924,
+      "is_contract": false,
+      "percentage": 1.580508756971279,
+      "transaction_count": 2000
+    },
+    {
+      "address": "5PAhQiYdLBd6SVdjzBQDxUAEFyDdF5ExNPQfcscnPRj5",
+      "amount": 989944374390759,
+      "is_contract": false,
+      "percentage": 1.4356761961032034,
+      "transaction_count": 2000
+    },
+    {
+      "address": "22Wnk8PwyWZV7BfkZGJEKT9jGGdtvu7xY6EXeRh7zkBa",
+      "amount": 920584691275689,
+      "is_contract": false,
+      "percentage": 1.3350866593639794,
+      "transaction_count": 2120
+    },
+    {
+      "address": "AcLHpBGUgsRApF2eF3tPPxMsgsnyBAr53mdBvLM8ST8z",
+      "amount": 893628291054160,
+      "is_contract": false,
+      "percentage": 1.2959928848733695,
+      "transaction_count": 2124
+    },
+    {
+      "address": "CKQLsoq4Wq143TEv6voeZc7M6wYAqhXc5Q3nNUXQK8hf",
+      "amount": 683296127970002,
+      "is_contract": false,
+      "percentage": 0.9909566751361678,
+      "transaction_count": 2098
+    },
+    {
+      "address": "6FEVkH17P9y8Q9aCkDdPcMDjvj7SVxrTETaYEm8f51Jy",
+      "amount": 625443123457413,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Crypto.Com",
+      "percentage": 0.907054807919748,
+      "transaction_count": 2000
+    },
+    {
+      "address": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+      "amount": 484716678537005,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Binance",
+      "percentage": 0.7029649495791738,
+      "transaction_count": 2000
+    },
+    {
+      "address": "2h8JJq1kAsJvKYVrsEqwhQTcy99p465esHUFcJA94QY2",
+      "amount": 434786143921024,
+      "is_contract": false,
+      "percentage": 0.6305527192950353,
+      "transaction_count": 509
+    },
+    {
+      "address": "8NBEbxLknGv5aRYefFrW2qFXoDZyi9fSHJNiJRvEcMBE",
+      "amount": 429845038510010,
+      "is_contract": false,
+      "percentage": 0.6233868344185288,
+      "transaction_count": 2170
+    },
+    {
+      "address": "CmnENjeuQfyPWHprK752FnU2wQgCZ8at4uMDBedctryo",
+      "amount": 419327386410000,
+      "is_contract": false,
+      "percentage": 0.6081335099393911,
+      "transaction_count": 5
+    },
+    {
+      "address": "4QXXp184iMKjL1ZTLrGtjMFvR2n2YhpUS1WypmzGaYB3",
+      "amount": 412965701362656,
+      "is_contract": false,
+      "percentage": 0.5989074160033572,
+      "transaction_count": 2000
+    },
+    {
+      "address": "62D255w5Bg6Puq2fcJVdb9KLXAhqDQqQdMAbBRdxobLF",
+      "amount": 400000000963202,
+      "is_contract": false,
+      "percentage": 0.5801037863138023,
+      "transaction_count": 29
+    },
+    {
+      "address": "3qtaeTSBgcUhV6vWwZpUqFWhXiaTUahGGhDMCFxoXLNH",
+      "amount": 398397471438845,
+      "is_contract": false,
+      "percentage": 0.5777797027075008,
+      "transaction_count": 1967
+    },
+    {
+      "address": "8TWNcXvh9BXKdgNdRKGAfKzGUYsoVDMKUuAdbMYxCJEA",
+      "amount": 392365935514784,
+      "is_contract": false,
+      "percentage": 0.5690324106614756,
+      "transaction_count": 4000
+    },
+    {
+      "address": "BfvHs6NL1fy6aTdzLxGyi9fKxjfMNMT4N7D3a9vmm7LN",
+      "amount": 329801358000000,
+      "is_contract": false,
+      "percentage": 0.4782975401163417,
+      "transaction_count": 507
+    },
+    {
+      "address": "4TYF8iW8bXET9C8aFgJoiUHhNtpBg5bqRsxSptCExvz7",
+      "amount": 279508387725898,
+      "is_contract": false,
+      "percentage": 0.4053596840895412,
+      "transaction_count": 2000
+    },
+    {
+      "address": "HVh6wHNBAsG3pq1Bj5oCzRjoWKVogEDHwUHkRz3ekFgt",
+      "amount": 272328654132380,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Kucoin",
+      "percentage": 0.39494720750880397,
+      "transaction_count": 1802
+    },
+    {
+      "address": "GdNFzHq2sGEhxuKQMLtxqQb2ZRmHzy9ZcFhvBNGvxXai",
+      "amount": 254440479420000,
+      "is_contract": false,
+      "percentage": 0.3690047128690375,
+      "transaction_count": 289
+    },
+    {
+      "address": "7n84gquK7kMcvAJdSmo4M3PqTFu8nJnvrP7AwFwAeu86",
+      "amount": 241205899000006,
+      "is_contract": false,
+      "percentage": 0.3498111373854732,
+      "transaction_count": 0
+    },
+    {
+      "address": "D8QmRhfvfeX7ubocUxsjMaRoJsiUYj5cGqmAQFrg6AG1",
+      "amount": 231538574150380,
+      "is_contract": false,
+      "percentage": 0.3357910080472498,
+      "transaction_count": 1964
+    },
+    {
+      "address": "ENAcQnWg8FEx71rvrxR4DTbdHBcFwDRvWXaFad4vq263",
+      "amount": 220190906940000,
+      "is_contract": false,
+      "percentage": 0.3193339463004525,
+      "transaction_count": 1821
+    },
+    {
+      "address": "DBmae92YTQKLsNzXcPscxiwPqMcz9stQr2prB5ZCAHPd",
+      "amount": 219387875941137,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Kucoin",
+      "percentage": 0.3181693429958374,
+      "transaction_count": 2290
+    },
+    {
+      "address": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+      "amount": 218681079654826,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Mexc",
+      "percentage": 0.31714430499370183,
+      "transaction_count": 2000
+    },
+    {
+      "address": "FixDET3jRBMjT9M69Wim8iRpMQiJHkSSfD7wivStuuph",
+      "amount": 197509990010003,
+      "is_contract": false,
+      "percentage": 0.2864407319092593,
+      "transaction_count": 2284
+    },
+    {
+      "address": "3WLjtTUq9LrSxM8WNzjTP5gjeUuyibn43FC5M8Ju9yMr",
+      "amount": 189831386444366,
+      "is_contract": false,
+      "percentage": 0.27530476443100305,
+      "transaction_count": 297
+    },
+    {
+      "address": "3Ln6KEgLoMR2xFHfqtYazP7CxFQPDtUVVtwCVsLKVfmV",
+      "amount": 182919386485224,
+      "is_contract": false,
+      "percentage": 0.26528057108689357,
+      "transaction_count": 1256
+    },
+    {
+      "address": "CZfdFsbycbUhf4Hf1DidAQV4v53gSp4KXNzvuvLFWmKt",
+      "amount": 169278144705175,
+      "is_contract": false,
+      "percentage": 0.2454972311179608,
+      "transaction_count": 4000
+    },
+    {
+      "address": "AzDByJsGm9gAVQPX8v8WS3iAs3PPdTwZZDDUNP2u5nVj",
+      "amount": 166060602363444,
+      "is_contract": false,
+      "percentage": 0.24083095989153938,
+      "transaction_count": 4000
+    },
+    {
+      "address": "CqrwsE7Ni9AM3EGtJ68Grg9VLwP1xJWNkc5WXjLPECN6",
+      "amount": 164979931055536,
+      "is_contract": false,
+      "percentage": 0.23926370610161804,
+      "transaction_count": 3300
+    },
+    {
+      "address": "Cw32Ny2xcYdpfJmvFd7h2pRhcbcjoJFq8KrrA8YLwZeh",
+      "amount": 157445576000000,
+      "is_contract": false,
+      "percentage": 0.2283369363900573,
+      "transaction_count": 3941
+    },
+    {
+      "address": "46sMwTauHaVx6VKZDpat2ze7CLbDCSgAM4turiSPYqVW",
+      "amount": 152148077670000,
+      "is_contract": false,
+      "percentage": 0.2206541893104973,
+      "transaction_count": 2035
+    },
+    {
+      "address": "Dt9eCJBLh7AVeoccgs2vxwULzSyKLUmKjrBbDdMs2uvm",
+      "amount": 150411940752463,
+      "is_contract": false,
+      "percentage": 0.2181363403180043,
+      "transaction_count": 2014
+    },
+    {
+      "address": "9PfWqYpxH9bj2ReLoeuWaBPP87QfZLHfSctRHETnaZy3",
+      "amount": 146922526962375,
+      "is_contract": false,
+      "percentage": 0.21307578495107604,
+      "transaction_count": 4000
+    },
+    {
+      "address": "J1BGeK3ojLF5dqaNFLg7WkQToyYisY79pWvHHscTJcpD",
+      "amount": 138439592097556,
+      "is_contract": false,
+      "percentage": 0.20077332839536327,
+      "transaction_count": 4000
+    },
+    {
+      "address": "FZ1t8TZtx7VSCQdBsxvFJiezj9paUBF6Ub7RKA2eTGyE",
+      "amount": 130284460634522,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Kucoin",
+      "percentage": 0.18894627182486076,
+      "transaction_count": 2114
+    },
+    {
+      "address": "RWpZ8Do8Cws9P631bzhjSFnM8RyTCVV9ibCEuCWJ7Fc",
+      "amount": 124064844687212,
+      "is_contract": false,
+      "percentage": 0.17992621494545052,
+      "transaction_count": 2110
+    },
+    {
+      "address": "A9wXtNo7U3nx5oHhv2S8YfMgL7KvakWRMYYsGgZU4n3x",
+      "amount": 119881422884102,
+      "is_contract": false,
+      "percentage": 0.17385916789073044,
+      "transaction_count": 164
+    },
+    {
+      "address": "69wiUV82tPsvR8vDMU3AoC7cCsVCErrwM8U8DRzjXMjW",
+      "amount": 90573162226804,
+      "is_contract": false,
+      "percentage": 0.13135458554915563,
+      "transaction_count": 269
+    },
+    {
+      "address": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+      "amount": 88913808352377,
+      "is_contract": false,
+      "percentage": 0.12894809189147655,
+      "transaction_count": 2000
+    },
+    {
+      "address": "BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6",
+      "amount": 87288421830178,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Kucoin",
+      "percentage": 0.12659085970777512,
+      "transaction_count": 2000
+    },
+    {
+      "address": "4NMvf4ApRq3NM5nDFcRktq7kvtPmbQ4yPX8KZWUvFZwK",
+      "amount": 87000000000000,
+      "is_contract": false,
+      "percentage": 0.12617257321942782,
+      "transaction_count": 1997
+    },
+    {
+      "address": "AD4Ao24wPYKXKQ6pR3TsGTse9yu1DD59SMh4GKNaWUoB",
+      "amount": 80892451359715,
+      "is_contract": false,
+      "percentage": 0.11731504301244419,
+      "transaction_count": 2749
+    },
+    {
+      "address": "2EFvSeVUZ28shLn2NocpsvtG11YGmf3WyooGVyq53uZT",
+      "amount": 79518830000000,
+      "is_contract": false,
+      "percentage": 0.11532293563791071,
+      "transaction_count": 88
+    },
+    {
+      "address": "GL8T72PKygWaYrLKtSteN9UUvYYnuC8azNDunk4eaqqQ",
+      "amount": 78879823510000,
+      "is_contract": false,
+      "percentage": 0.11439621042932205,
+      "transaction_count": 2689
+    },
+    {
+      "address": "4GC3a1RkRXx5shwGP8pTY6cxXgSWkbfc66vM53a6qSKj",
+      "amount": 77204079292940,
+      "is_contract": false,
+      "percentage": 0.11196594652214922,
+      "transaction_count": 2450
+    },
+    {
+      "address": "2u2YPj2G3VxatoyhSVDNPyPAE7VoSALWETdLWgTn7ZPB",
+      "amount": 73920626000000,
+      "is_contract": false,
+      "percentage": 0.10720408731506827,
+      "transaction_count": 1886
+    },
+    {
+      "address": "byn9PfqDUhhb6UTfEfCShskcX2FYrQetzJfVyLNvmsz",
+      "amount": 71623290270000,
+      "is_contract": false,
+      "percentage": 0.10387235443457363,
+      "transaction_count": 2961
+    },
+    {
+      "address": "G9QNDVB2gs3xVt4Dy1otTdWiuZvHQK8425UMe9TahD1m",
+      "amount": 69963410991822,
+      "is_contract": false,
+      "percentage": 0.10146509880513313,
+      "transaction_count": 2031
+    },
+    {
+      "address": "9CjKf5q7VB7zsAjgnTo1dABUsQtnasu2n8mGQ2aFb6vM",
+      "amount": 67529026777077,
+      "is_contract": false,
+      "percentage": 0.09793461006284425,
+      "transaction_count": 2027
+    },
+    {
+      "address": "AR9uTa5efb4uWQDgvyuY9sMpFkfKDx7MqHQyommuVkt8",
+      "amount": 65000672520000,
+      "is_contract": false,
+      "percentage": 0.09426784037749138,
+      "transaction_count": 2012
+    },
+    {
+      "address": "D85sCPqpLwQatupyDPsfJnNpj4wCEt5xWcpyW2rS5F1e",
+      "amount": 63152921000007,
+      "is_contract": false,
+      "percentage": 0.09158812125165659,
+      "transaction_count": 2936
+    },
+    {
+      "address": "G1d69HFvNiJc4gAJAtjv4DkePPAYv6Z3vttY5XCTq3vN",
+      "amount": 60474892006574,
+      "is_contract": false,
+      "percentage": 0.08770428436363734,
+      "transaction_count": 2843
+    },
+    {
+      "address": "6vqFV1fhRbWsJjkSwcxoqqk55Jq9pdNJ1HKzW9Bq5Kog",
+      "amount": 60116642930000,
+      "is_contract": false,
+      "percentage": 0.08718473025047842,
+      "transaction_count": 2000
+    },
+    {
+      "address": "M2St7Gra11AKvk3tC4fJPkxviWYKpLZSMmKcHNoDtxp",
+      "amount": 58659880345775,
+      "is_contract": false,
+      "percentage": 0.08507204652839277,
+      "transaction_count": 2054
+    },
+    {
+      "address": "2C1EKQGRjMMmyuJGE9NYUQGzE54bCT7M29gRCYUSJR8k",
+      "amount": 57853804522005,
+      "is_contract": false,
+      "percentage": 0.08390302743764529,
+      "transaction_count": 2275
+    },
+    {
+      "address": "H2PVM96jQomH864kZAAxRMFBZaHbdKQG2iG21v52jRxF",
+      "amount": 54774379703634,
+      "is_contract": false,
+      "percentage": 0.07943706245638509,
+      "transaction_count": 4000
+    },
+    {
+      "address": "77DXFZnMebramt4dXfdwem1AjnfNnVnG8FkcVWpSwdjB",
+      "amount": 50122481000000,
+      "is_contract": false,
+      "percentage": 0.0726906023438147,
+      "transaction_count": 4000
+    },
+    {
+      "address": "BbHG9GvPActFGogv3iNrpDAj4qpXr8t3jF16uGxXcKci",
+      "amount": 48359718759321,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Backpack Exchange",
+      "percentage": 0.07013413972449846,
+      "transaction_count": 1645
+    },
+    {
+      "address": "DhE4xWDBeUS5aX22hazGgJYghhnAKnkUstNJSHK7yc63",
+      "amount": 48286699525283,
+      "is_contract": false,
+      "percentage": 0.07002824288940551,
+      "transaction_count": 2012
+    },
+    {
+      "address": "8cet2MnC5ujoEUXNbsqrn5eodortE5omCXEcxLza57rL",
+      "amount": 47988839176832,
+      "is_contract": false,
+      "percentage": 0.06959626810062278,
+      "transaction_count": 136
+    },
+    {
+      "address": "BY4StcU9Y2BpgH8quZzorg31EGE4L1rjomN8FNsCBEcx",
+      "amount": 46747284637541,
+      "is_contract": false,
+      "percentage": 0.06779569188206408,
+      "transaction_count": 4000
+    },
+    {
+      "address": "3Nvb6UeEMVLf9DsehhqT8B5SNHrNLEpHdf42nXi9aLK8",
+      "amount": 46399496000000,
+      "is_contract": false,
+      "percentage": 0.0672913081195925,
+      "transaction_count": 2240
+    },
+    {
+      "address": "De4oyVN6s5ECDyKYRArwMFFZGDyyq3syM5D9QWQeKxmb",
+      "amount": 44000000000000,
+      "is_contract": false,
+      "percentage": 0.06381141634086004,
+      "transaction_count": 2000
+    },
+    {
+      "address": "GFy3aukQ9qgwiVUGaLD8ev7bNMXSttVjEFJoys6gcjPH",
+      "amount": 44000000000000,
+      "is_contract": false,
+      "percentage": 0.06381141634086004,
+      "transaction_count": 2000
+    },
+    {
+      "address": "7sgiaJy6oumCv8wo1yEYUUaHku1wGVWjuKKPpnGu6ziE",
+      "amount": 43320872536429,
+      "is_contract": false,
+      "percentage": 0.06282650531071364,
+      "transaction_count": 2000
+    },
+    {
+      "address": "83S3HXGJWGu8xx2X1fceWPnADeXaaqHvgqxVSBecgUYA",
+      "amount": 43000010000000,
+      "is_contract": false,
+      "percentage": 0.062361171381162386,
+      "transaction_count": 2000
+    },
+    {
+      "address": "EwC4vmYHnpr2kWLUu151Mh67CqgdfxgxKERFbcCinALu",
+      "amount": 43000000000000,
+      "is_contract": false,
+      "percentage": 0.06236115687856777,
+      "transaction_count": 2000
+    },
+    {
+      "address": "D8BviqG2Sz2Vuj3P9wUjSEn3PvfHeyQkV3SEFSLY48sH",
+      "amount": 43000000000000,
+      "is_contract": false,
+      "percentage": 0.06236115687856777,
+      "transaction_count": 2000
+    },
+    {
+      "address": "D5jx4wmxuPz18hqmgpCMLGVq3uSksCafCp5xjVe1nw8p",
+      "amount": 40904803228137,
+      "is_contract": false,
+      "percentage": 0.05932257793480923,
+      "transaction_count": 4000
+    },
+    {
+      "address": "5ShikDzHTcJesmkyE4EjCNeg7w1gfG7xciuugk5mUUT1",
+      "amount": 40464634112590,
+      "is_contract": false,
+      "percentage": 0.05868421850997837,
+      "transaction_count": 4000
+    },
+    {
+      "address": "GtmS6hfPZFF8Eb6CjCunaKMr1gkkiVs2hCdEfRfVEDda",
+      "amount": 40000000000000,
+      "is_contract": false,
+      "percentage": 0.058010378491690946,
+      "transaction_count": 2337
+    },
+    {
+      "address": "AwiguNn4m6Z3qeeXoiF2cMcAEqs4nu7zBU611E3iTsmH",
+      "amount": 39016907594255,
+      "is_contract": false,
+      "percentage": 0.05658463942795159,
+      "transaction_count": 4000
+    },
+    {
+      "address": "BwUonp8XpjZiCxjYQpNsMcJt4ZrkRcgYHqdcekAA7vx8",
+      "amount": 37684249240003,
+      "is_contract": false,
+      "percentage": 0.05465193903969477,
+      "transaction_count": 981
+    },
+    {
+      "address": "2wSKsN7yyWJeJFb9AtqenCoFY7Nrkr5mnbDYpwx788hY",
+      "amount": 35901031029449,
+      "is_contract": false,
+      "percentage": 0.05206580995650694,
+      "transaction_count": 4000
+    },
+    {
+      "address": "HFWv1riXSRJ3nVnnLZ9xi1K4r3zppRvcfVuiAGqAA8Y6",
+      "amount": 35147047111447,
+      "is_contract": false,
+      "percentage": 0.05097233764500834,
+      "transaction_count": 4000
+    },
+    {
+      "address": "C64gyYweF4SkuY6aWnGy3zgJZCTHjhBK6Rg3qiEq4k4h",
+      "amount": 33864023021118,
+      "is_contract": false,
+      "percentage": 0.049111619817659775,
+      "transaction_count": 35
+    },
+    {
+      "address": "RBHdGVfDfMjfU6iUfCb1LczMJcQLx7hGnxbzRsoDNvx",
+      "amount": 32712588202150,
+      "is_contract": false,
+      "percentage": 0.047441740576238636,
+      "transaction_count": 2000
+    },
+    {
+      "address": "AobVSwdW9BbpMdJvTqeCN4hPAmh4rHm7vwLnQ5ATSyrS",
+      "amount": 29277993936672,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Crypto.Com",
+      "percentage": 0.042460687743594384,
+      "transaction_count": 2000
+    },
+    {
+      "address": "4GQeEya6ZTwvXre4Br6ZfDyfe2WQMkcDz2QbkJZazVqS",
+      "amount": 28731805406228,
+      "is_contract": false,
+      "percentage": 0.04166857265912246,
+      "transaction_count": 4000
+    },
+    {
+      "address": "791P1fNcgLkA9dBLptSfF6BGoL2uYPY4V8uuDStxPcK3",
+      "amount": 28294166679792,
+      "is_contract": false,
+      "percentage": 0.041033882955043115,
+      "transaction_count": 2003
+    },
+    {
+      "address": "6aZNkfmZBCzwrrMYURfjXkT7qTPGAfJuPJsZTd4JQvR4",
+      "amount": 27514136920000,
+      "is_contract": false,
+      "percentage": 0.03990263741503519,
+      "transaction_count": 2163
+    },
+    {
+      "address": "8ehGYfcsjD24MGSP9rnZsdYHDga3eS4Xw4phBdB5rdFw",
+      "amount": 27243854000028,
+      "is_contract": false,
+      "percentage": 0.03951065705284982,
+      "transaction_count": 1378
+    },
+    {
+      "address": "7BUSVhRC4aqaubZtqragnUg3G6cJbS1iADxC4vTMdKmg",
+      "amount": 27035617018395,
+      "is_contract": false,
+      "percentage": 0.03920865939983738,
+      "transaction_count": 9
+    },
+    {
+      "address": "7z2CX7EVVvyTzMnFUBUmHUWoyymFpspgHB5gdhXaHsLB",
+      "amount": 26980600040000,
+      "is_contract": false,
+      "percentage": 0.0391288705063333,
+      "transaction_count": 2781
+    },
+    {
+      "address": "5Yg4gdiwtzPKeRQmHF4cL7zD8FZ2thx4J3oBhn8BeiVA",
+      "amount": 24848524260000,
+      "is_contract": false,
+      "percentage": 0.03603680743206412,
+      "transaction_count": 2007
+    },
+    {
+      "address": "7Z9Go8pYb6QWDaNYMV6Pm1SZV69WNR1btUCwSeHthTaf",
+      "amount": 24059582990047,
+      "is_contract": false,
+      "percentage": 0.0348926378901219,
+      "transaction_count": 2903
+    },
+    {
+      "address": "29TNS9yKvszthwxPm6WSnFsDHefbbPHaiVt7YNzaAUb7",
+      "amount": 24000000000002,
+      "is_contract": false,
+      "percentage": 0.03480622709501747,
+      "transaction_count": 2007
+    },
+    {
+      "address": "GugU1tP7doLeTw9hQP51xRJyS8Da1fWxuiy2rVrnMD2m",
+      "amount": 23935744284554,
+      "is_contract": false,
+      "percentage": 0.03471303963568265,
+      "transaction_count": 4000
+    },
+    {
+      "address": "G9RCBaYb8aBRxoe8QBC2ucGrVqjuZFysRhY8d56cnNT1",
+      "amount": 23490997344350,
+      "is_contract": false,
+      "percentage": 0.034068041177326265,
+      "transaction_count": 2391
+    },
+    {
+      "address": "2XzvaP773Yhf8U7MCchj2djW3j2mVgCADzt7UCzeggWX",
+      "amount": 23010779000000,
+      "is_contract": false,
+      "percentage": 0.03337159997946634,
+      "transaction_count": 2002
+    },
+    {
+      "address": "DSQrUxQs4vfCxDruwLdmoXKt8ToRCgM5XjWMhUUkhR8g",
+      "amount": 22840178091208,
+      "is_contract": false,
+      "percentage": 0.03312418439721509,
+      "transaction_count": 2004
+    },
+    {
+      "address": "CwH3beLcMbcQLUuDg3vEp8zHTdco2QWpzauApiejzVPB",
+      "amount": 22794958547315,
+      "is_contract": false,
+      "percentage": 0.033058604325803716,
+      "transaction_count": 4
+    },
+    {
+      "address": "4T3T89mASGEngK8JYNhVxCU2Yi48L6Fa2BRbzbUpu1wQ",
+      "amount": 21325782627162,
+      "is_contract": false,
+      "percentage": 0.030927918045829873,
+      "transaction_count": 2000
+    },
+    {
+      "address": "CsVdJ8WH8Q9eHSTRpwtwN3TYApm24QnLKYUMNxJ3DaED",
+      "amount": 21236157554339,
+      "is_contract": false,
+      "percentage": 0.030797938435909684,
+      "transaction_count": 4000
+    },
+    {
+      "address": "43DbAvKxhXh1oSxkJSqGosNw3HpBnmsWiak6tB5wpecN",
+      "amount": 21070909184832,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Backpack Exchange",
+      "percentage": 0.030558285424403784,
+      "transaction_count": 4000
+    },
+    {
+      "address": "7RmkMNQerKaVioRnmqZsHM5Gm8F3gngQG8umLNoK97q4",
+      "amount": 20912512266965,
+      "is_contract": false,
+      "percentage": 0.03032856879546924,
+      "transaction_count": 4000
+    },
+    {
+      "address": "BNA2koe4d6xBXfYKuZCxkBGjAc8CLveLirYAHb5VFdiQ",
+      "amount": 20856930881693,
+      "is_contract": false,
+      "percentage": 0.030247961365551208,
+      "transaction_count": 2756
+    },
+    {
+      "address": "GDui3zpJC1xdnddCM2Vjp5Hnj97pQH1gDAHctyavx5iQ",
+      "amount": 20649905571077,
+      "is_contract": false,
+      "percentage": 0.029947720949896357,
+      "transaction_count": 2135
+    },
+    {
+      "address": "DSFWxvJjgvLbVqoQ1Zwoe1iVHhwFgrfSiF3ZK1h7nd1K",
+      "amount": 19999376000002,
+      "is_contract": false,
+      "percentage": 0.029004284283943905,
+      "transaction_count": 648
+    },
+    {
+      "address": "HqqzZC5qsNKtZBrBsYvbXhzxUQaADSzkDaifHWe1GvEH",
+      "amount": 19747107668855,
+      "is_contract": false,
+      "percentage": 0.028638429749661288,
+      "transaction_count": 82
+    },
+    {
+      "address": "2YxQCXt9spMwoQZiwFLwdjHtscVvXi4nmxCkQCD6Rvgg",
+      "amount": 19224479823740,
+      "is_contract": false,
+      "percentage": 0.027880483772025837,
+      "transaction_count": 2000
+    },
+    {
+      "address": "J8bjurkmmXDgFDYsWG8552QGgpSHUjm9tu9NCGqRZoCw",
+      "amount": 19133192857714,
+      "is_contract": false,
+      "percentage": 0.027748093985762678,
+      "transaction_count": 35
+    },
+    {
+      "address": "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS",
+      "amount": 17215599387778,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Coinbase",
+      "percentage": 0.02496708591115812,
+      "transaction_count": 2000
+    },
+    {
+      "address": "FqQDqvVEiLexfxzQqK88QP84F475MBvH6UxYB1rQCgKb",
+      "amount": 16731589451208,
+      "is_contract": false,
+      "percentage": 0.024265145920803994,
+      "transaction_count": 573
+    },
+    {
+      "address": "C9MPQiiCW7Hj85YJBcD5jiZqJnZS9ESDKWHDqURJnPua",
+      "amount": 16649084950000,
+      "is_contract": false,
+      "is_exchange": true,
+      "name": "Gate.Io",
+      "percentage": 0.024145492987245387,
+      "transaction_count": 4
+    },
+    {
+      "address": "bnKgTgUAML3L2m3KFbJamD9CTunUXU8jfRmun1tf4Lo",
+      "amount": 16646640998742,
+      "is_contract": false,
+      "percentage": 0.02414194862380809,
+      "transaction_count": 1693
+    },
+    {
+      "address": "5sTQ5ih7xtctBhMXHr3f1aWdaXazWrWfoehqWdqWnTFP",
+      "amount": 16618582248925,
+      "is_contract": false,
+      "percentage": 0.024101256156385895,
+      "transaction_count": 4000
+    },
+    {
+      "address": "Eueeb9FKXpk7duw7jKeYm1NNWmTeFN7fGKYMmasY7C9x",
+      "amount": 16599799200000,
+      "is_contract": false,
+      "percentage": 0.024074015861951716,
+      "transaction_count": 821
+    },
+    {
+      "address": "BrTJ4MmfxsSLMqUuUfa9nn55cKxr3QfHMFJjpdjWGSyu",
+      "amount": 16596531069107,
+      "is_contract": false,
+      "percentage": 0.02406927622420013,
+      "transaction_count": 3968
+    },
+    {
+      "address": "ApoyUbcqBfSwMYcVrDVUzH4gBLKeALzkQrjtqQ53vqY8",
+      "amount": 16221732701870,
+      "is_contract": false,
+      "percentage": 0.02352572134566298,
+      "transaction_count": 35
+    },
+    {
+      "address": "CjfuURv2r8KVtpAzcX5jxxmKpzqF9YNVhXTZCNEkAYa",
+      "amount": 16039238020000,
+      "is_contract": false,
+      "percentage": 0.023261056706462994,
+      "transaction_count": 3
+    },
+    {
+      "address": "2pjJapfYnJWYjUm5jFDrwvKEKkJAoghSFUBZkryxruFf",
+      "amount": 16000000000000,
+      "is_contract": false,
+      "percentage": 0.02320415139667638,
+      "transaction_count": 465
+    },
+    {
+      "address": "7LVR8pCe5Sqn6h2j9BVR671sYdAJfRG2qPkYjQx4hftK",
+      "amount": 15539103863100,
+      "is_contract": false,
+      "percentage": 0.022535732413003197,
+      "transaction_count": 186
+    },
+    {
+      "address": "HA9oNhHddEoPFSAEEYtGYZoXDkjky53TQ72jtpAnu81i",
+      "amount": 15537952138974,
+      "is_contract": false,
+      "percentage": 0.022534062114191518,
+      "transaction_count": 4000
+    },
+    {
+      "address": "DGcBZt6kyK9ELv2n1yuH29VLVEJcur9jtHuM4ebQqqsz",
+      "amount": 15499900967472,
+      "is_contract": false,
+      "percentage": 0.022478878042669438,
+      "transaction_count": 73
+    },
+    {
+      "address": "G91h7mz9oy3vHtnK88H8Lf1u9AcQPvTtxQccZ8AMM46h",
+      "amount": 15386036880000,
+      "is_contract": false,
+      "percentage": 0.022313745572397892,
+      "transaction_count": 54
+    },
+    {
+      "address": "6G8QMb6R8tUBtprfAHmkyKZutjk3m47ihJffx3PgCJKd",
+      "amount": 15025206040000,
+      "is_contract": false,
+      "percentage": 0.021790447232401023,
+      "transaction_count": 100
+    },
+    {
+      "address": "FentCFF2r4ViBypzTD6PfjDwMKx2XRAWeiCxfGGcCNze",
+      "amount": 14999854000000,
+      "is_contract": false,
+      "percentage": 0.02175368019650261,
+      "transaction_count": 58
+    },
+    {
+      "address": "6rTepdvfftyA2a1KrVRtQ4zeF2KiqRvDL8APDE4HdRD",
+      "amount": 14983863056495,
+      "is_contract": false,
+      "percentage": 0.021730489179373504,
+      "transaction_count": 132
+    },
+    {
+      "address": "AjcHAfuMwABpiNBivAVdm3dGnsJq7gzKprfRJPrfcbrJ",
+      "amount": 14976743450000,
+      "is_contract": false,
+      "percentage": 0.021720163902686333,
+      "transaction_count": 1
+    },
+    {
+      "address": "AtVAEeuBnRagK4wGfpPiVxcdeKcXVcTj7ed2SZR4ekxc",
+      "amount": 14976368054633,
+      "is_contract": false,
+      "percentage": 0.021719619482003242,
+      "transaction_count": 24
+    },
+    {
+      "address": "8ZJPH1pWhSHqzJkWXYQoc4bdcxnPJQEJkscMB1rc7vNH",
+      "amount": 14860844106583,
+      "is_contract": false,
+      "percentage": 0.021552079783222364,
+      "transaction_count": 73
+    },
+    {
+      "address": "ATGHXE9ihFahuXg34r4kVug6Qb4avzHmbHxmL36u5E6A",
+      "amount": 14859852250000,
+      "is_contract": false,
+      "percentage": 0.021550641333827635,
+      "transaction_count": 131
+    },
+    {
+      "address": "DGFW1Effv88XzXkgfgyoFfmefzEU5Pp9zWJACBmCSh8K",
+      "amount": 14784120658766,
+      "is_contract": false,
+      "percentage": 0.021440810877046072,
+      "transaction_count": 4000
+    },
+    {
+      "address": "9goN9WevrARGxw7vLuZn6o9ZdrZnGrMXvjL8J1De9TKZ",
+      "amount": 14659209876716,
+      "is_contract": false,
+      "percentage": 0.021259657833435735,
+      "transaction_count": 2140
+    },
+    {
+      "address": "DHnCWjAEZJp5vaWrJmjhAPMzZmkrNboTrAaVcFfng7n6",
+      "amount": 14546832222673,
+      "is_contract": false,
+      "percentage": 0.021096681077309665,
+      "transaction_count": 3647
+    },
+    {
+      "address": "9Bvyr4FS96G5mJFJGi6Fob9eLwQM4shGjSAEiEDNZKfY",
+      "amount": 14341253391916,
+      "is_contract": false,
+      "percentage": 0.020798538432757346,
+      "transaction_count": 575
+    },
+    {
+      "address": "5opoTcqb1Vf9ycZ6V5ofvwWb8qqhFbcrtA29yNpAKBKS",
+      "amount": 14130845481127,
+      "is_contract": false,
+      "percentage": 0.02049339236919445,
+      "transaction_count": 2
+    },
+    {
+      "address": "GuUj4r43yVLgTcWpibYsTPkvLYtgsroR2hTeZ73T75t2",
+      "amount": 14108615977150,
+      "is_contract": false,
+      "percentage": 0.02046115382070974,
+      "transaction_count": 497
+    },
+    {
+      "address": "C7vcJwVYSmk2hzWrtWCxyQxhxB4zaKDvmEo8QdDTJtsT",
+      "amount": 13889506490000,
+      "is_contract": false,
+      "percentage": 0.020143388213692444,
+      "transaction_count": 47
+    },
+    {
+      "address": "94xmX5J92nZLanLvRstmxhgiS8kN8SVfFQ2zPKYB3Ynb",
+      "amount": 13531565592536,
+      "is_contract": false,
+      "percentage": 0.019624281040203893,
+      "transaction_count": 4000
+    },
+    {
+      "address": "CvWG1ewPjW7Uvg937TCozrMQrL2qKkM6rwETp6YVD2KC",
+      "amount": 13418261000000,
+      "is_contract": false,
+      "percentage": 0.019459959982757388,
+      "transaction_count": 5
+    },
+    {
+      "address": "FguX3PEUzdj6oJoidQERwjY1NBxHGbdYyHzknTTL4eQX",
+      "amount": 13014876322371,
+      "is_contract": false,
+      "percentage": 0.01887494753708221,
+      "transaction_count": 4000
+    },
+    {
+      "address": "3Vyt3zQoZNFHxnoZSXB21rTsUnDcfWwDAoqvExLqmdbJ",
+      "amount": 12999802000000,
+      "is_contract": false,
+      "percentage": 0.018853085858426023,
+      "transaction_count": 1238
+    },
+    {
+      "address": "5oVTqMnqQDH3w3LHiLNRGprXgSjrrGE3dSnowG4pGaUd",
+      "amount": 12707462844683,
+      "is_contract": false,
+      "percentage": 0.018429118232229015,
+      "transaction_count": 379
+    },
+    {
+      "address": "8JWVtS21nfQddQR5thDQ8bL5ykHKAGLcYSdR3uQqBvoG",
+      "amount": 12535876241001,
+      "is_contract": false,
+      "percentage": 0.018180273136636598,
+      "transaction_count": 4000
+    },
+    {
+      "address": "7j7YydSMcg7fgG6ZomfM63ecvz9wvPf2eg4bz2UUZSA",
+      "amount": 12500488350000,
+      "is_contract": false,
+      "percentage": 0.01812895151286183,
+      "transaction_count": 335
+    },
+    {
+      "address": "D2cmhbqVzJeyatJ2F82UPPXX5GQL4AFNYjoTyCDAZnGt",
+      "amount": 12409379415999,
+      "is_contract": false,
+      "percentage": 0.017996819919227518,
+      "transaction_count": 4000
+    },
+    {
+      "address": "EfVMhiwFWk6mBn32AxSUJGc3cSnfUNodBdQ6Hi6vUQJu",
+      "amount": 12126115159400,
+      "is_contract": false,
+      "percentage": 0.017586013250765635,
+      "transaction_count": 51
+    },
+    {
+      "address": "D98bbGSrUrggVgeQuJ3JsitZuGy8ZZKceK2C2rcxT9Mz",
+      "amount": 12101365500002,
+      "is_contract": false,
+      "percentage": 0.017550119823035174,
+      "transaction_count": 757
+    },
+    {
+      "address": "8PFD2CYF275p8YdRmhk4C1wcNoKeRVrouYdMbZV6HwHH",
+      "amount": 11956212000041,
+      "is_contract": false,
+      "percentage": 0.017339609586231892,
+      "transaction_count": 2534
+    },
+    {
+      "address": "EnwHZMkBUvem41GhDLvEo5bVb9Rz9kLyTDcqGgfBfKcZ",
+      "amount": 11881234500006,
+      "is_contract": false,
+      "percentage": 0.017230872757347113,
+      "transaction_count": 4000
+    }
+  ],
+  "source_id": 1,
+  "symbol": "BOME",
+  "token_address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+  "token_links": [
+    {
+      "address": "So11111111111111111111111111111111111111112",
+      "decimals": 9,
+      "links": [
+        {
+          "backward": 174.85608815,
+          "forward": 216.523820848,
+          "source": 2,
+          "target": 43
+        },
+        {
+          "backward": 847.6557835880001,
+          "forward": 0,
+          "source": 2,
+          "target": 54
+        },
+        {
+          "backward": 12435,
+          "forward": 0,
+          "source": 2,
+          "target": 56
+        },
+        {
+          "backward": 25.779,
+          "forward": 30.315191268,
+          "source": 2,
+          "target": 62
+        },
+        {
+          "backward": 1126.0975862799987,
+          "forward": 1338.7755993159997,
+          "source": 2,
+          "target": 77
+        },
+        {
+          "backward": 26.030348279000002,
+          "forward": 0,
+          "source": 2,
+          "target": 78
+        },
+        {
+          "backward": 36.5,
+          "forward": 0,
+          "source": 2,
+          "target": 98
+        },
+        {
+          "backward": 243.67000341900047,
+          "forward": 89.98715295300002,
+          "source": 2,
+          "target": 101
+        },
+        {
+          "backward": 171.291863445,
+          "forward": 0,
+          "source": 2,
+          "target": 104
+        },
+        {
+          "backward": 64.725566402,
+          "forward": 0,
+          "source": 2,
+          "target": 111
+        },
+        {
+          "backward": 94.6175,
+          "forward": 0,
+          "source": 2,
+          "target": 113
+        },
+        {
+          "backward": 65.1,
+          "forward": 43.456407569,
+          "source": 2,
+          "target": 119
+        },
+        {
+          "backward": 123.92831433900001,
+          "forward": 0.572822379,
+          "source": 2,
+          "target": 120
+        },
+        {
+          "backward": 100,
+          "forward": 0,
+          "source": 2,
+          "target": 126
+        },
+        {
+          "backward": 95.65817622300001,
+          "forward": 431.7076539239999,
+          "source": 2,
+          "target": 133
+        },
+        {
+          "backward": 436,
+          "forward": 246.890694958,
+          "source": 2,
+          "target": 134
+        },
+        {
+          "backward": 9,
+          "forward": 5,
+          "source": 2,
+          "target": 136
+        },
+        {
+          "backward": 88.15167219999998,
+          "forward": 6.819655990999998,
+          "source": 2,
+          "target": 140
+        },
+        {
+          "backward": 586.5,
+          "forward": 944.3651516319999,
+          "source": 2,
+          "target": 144
+        },
+        {
+          "backward": 0.11,
+          "forward": 0,
+          "source": 2,
+          "target": 147
+        },
+        {
+          "backward": 185.67158176700013,
+          "forward": 110.44965765699997,
+          "source": 2,
+          "target": 46
+        },
+        {
+          "backward": 838.9655349990004,
+          "forward": 1545.6141905309998,
+          "source": 2,
+          "target": 86
+        },
+        {
+          "backward": 262,
+          "forward": 0,
+          "source": 2,
+          "target": 11
+        },
+        {
+          "backward": 1804.2,
+          "forward": 0,
+          "source": 2,
+          "target": 12
+        },
+        {
+          "backward": 400.9392487320002,
+          "forward": 215.323857492,
+          "source": 2,
+          "target": 35
+        },
+        {
+          "backward": 16925.523534814,
+          "forward": 0,
+          "source": 2,
+          "target": 38
+        },
+        {
+          "backward": 627,
+          "forward": 0,
+          "source": 2,
+          "target": 22
+        }
+      ],
+      "name": "Wrapped SOL",
+      "symbol": "WSOL"
+    },
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "decimals": 6,
+      "links": [
+        {
+          "backward": 0,
+          "forward": 4208447.365688,
+          "source": 40,
+          "target": 149
+        },
+        {
+          "backward": 9306314.299998,
+          "forward": 6040400,
+          "source": 42,
+          "target": 47
+        },
+        {
+          "backward": 54057000,
+          "forward": 29778561.441993997,
+          "source": 47,
+          "target": 51
+        },
+        {
+          "backward": 116799672.48762299,
+          "forward": 44437695.946765006,
+          "source": 65,
+          "target": 102
+        },
+        {
+          "backward": 0,
+          "forward": 309.862422,
+          "source": 2,
+          "target": 77
+        },
+        {
+          "backward": 3246013.410635,
+          "forward": 0,
+          "source": 63,
+          "target": 79
+        },
+        {
+          "backward": 500001,
+          "forward": 500000,
+          "source": 88,
+          "target": 116
+        },
+        {
+          "backward": 0,
+          "forward": 4156,
+          "source": 14,
+          "target": 96
+        },
+        {
+          "backward": 1694.2039120000002,
+          "forward": 1008.0020160000001,
+          "source": 2,
+          "target": 101
+        },
+        {
+          "backward": 12.423616,
+          "forward": 0,
+          "source": 2,
+          "target": 104
+        },
+        {
+          "backward": 0,
+          "forward": 341934,
+          "source": 14,
+          "target": 106
+        },
+        {
+          "backward": 2636816.75,
+          "forward": 0,
+          "source": 13,
+          "target": 107
+        },
+        {
+          "backward": 211127.72,
+          "forward": 0,
+          "source": 3,
+          "target": 108
+        },
+        {
+          "backward": 18555.891524,
+          "forward": 0,
+          "source": 2,
+          "target": 111
+        },
+        {
+          "backward": 10000.403363000001,
+          "forward": 0,
+          "source": 46,
+          "target": 113
+        },
+        {
+          "backward": 3485504,
+          "forward": 0,
+          "source": 46,
+          "target": 114
+        },
+        {
+          "backward": 0,
+          "forward": 5700000,
+          "source": 14,
+          "target": 114
+        },
+        {
+          "backward": 305,
+          "forward": 0,
+          "source": 46,
+          "target": 140
+        },
+        {
+          "backward": 40,
+          "forward": 0,
+          "source": 86,
+          "target": 140
+        },
+        {
+          "backward": 41809.105176,
+          "forward": 0,
+          "source": 46,
+          "target": 142
+        },
+        {
+          "backward": 1000,
+          "forward": 0,
+          "source": 2,
+          "target": 147
+        },
+        {
+          "backward": 0,
+          "forward": 71972.2,
+          "source": 14,
+          "target": 147
+        },
+        {
+          "backward": 3492.9783829999997,
+          "forward": 332.049013,
+          "source": 2,
+          "target": 46
+        },
+        {
+          "backward": 5836.983618,
+          "forward": 5732.387526,
+          "source": 2,
+          "target": 86
+        },
+        {
+          "backward": 500000000,
+          "forward": 0,
+          "source": 0,
+          "target": 1
+        },
+        {
+          "backward": 946390695.743,
+          "forward": 1382134645.818,
+          "source": 1,
+          "target": 14
+        },
+        {
+          "backward": 0,
+          "forward": 360949,
+          "source": 3,
+          "target": 46
+        },
+        {
+          "backward": 0,
+          "forward": 266730000,
+          "source": 9,
+          "target": 30
+        },
+        {
+          "backward": 0,
+          "forward": 27893240.23,
+          "source": 10,
+          "target": 13
+        },
+        {
+          "backward": 0,
+          "forward": 1866015,
+          "source": 14,
+          "target": 35
+        },
+        {
+          "backward": 15241914.717035994,
+          "forward": 33513800,
+          "source": 29,
+          "target": 47
+        },
+        {
+          "backward": 19560.002009000007,
+          "forward": 9818.544662000002,
+          "source": 2,
+          "target": 35
+        },
+        {
+          "backward": 64000,
+          "forward": 0,
+          "source": 37,
+          "target": 68
+        },
+        {
+          "backward": 0,
+          "forward": 249743464,
+          "source": 13,
+          "target": 85
+        },
+        {
+          "backward": 139.324332,
+          "forward": 0,
+          "source": 2,
+          "target": 22
+        },
+        {
+          "backward": 0,
+          "forward": 169865441,
+          "source": 24,
+          "target": 47
+        }
+      ],
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "decimals": 6,
+      "links": [
+        {
+          "backward": 0,
+          "forward": 4429931.731769013,
+          "source": 40,
+          "target": 149
+        },
+        {
+          "backward": 19190695.642362993,
+          "forward": 12719600.5,
+          "source": 42,
+          "target": 47
+        },
+        {
+          "backward": 0,
+          "forward": 10,
+          "source": 4,
+          "target": 44
+        },
+        {
+          "backward": 23729045.518179003,
+          "forward": 26614030.1,
+          "source": 29,
+          "target": 47
+        },
+        {
+          "backward": 17227350.5,
+          "forward": 21960561.56999999,
+          "source": 47,
+          "target": 51
+        },
+        {
+          "backward": 3571830.048974,
+          "forward": 3571830.048974,
+          "source": 59,
+          "target": 76
+        },
+        {
+          "backward": 11891470.003514,
+          "forward": 15296675,
+          "source": 65,
+          "target": 102
+        },
+        {
+          "backward": 4997500,
+          "forward": 0,
+          "source": 65,
+          "target": 114
+        },
+        {
+          "backward": 88399913,
+          "forward": 95899917.1,
+          "source": 37,
+          "target": 68
+        },
+        {
+          "backward": 1647076.7744030003,
+          "forward": 0,
+          "source": 63,
+          "target": 79
+        },
+        {
+          "backward": 0,
+          "forward": 178532104,
+          "source": 13,
+          "target": 85
+        },
+        {
+          "backward": 789.3125660000001,
+          "forward": 510.13867300000004,
+          "source": 2,
+          "target": 101
+        },
+        {
+          "backward": 0,
+          "forward": 400978,
+          "source": 14,
+          "target": 106
+        },
+        {
+          "backward": 6634202.890000001,
+          "forward": 0,
+          "source": 13,
+          "target": 107
+        },
+        {
+          "backward": 2793161.87,
+          "forward": 10485.910000000002,
+          "source": 3,
+          "target": 108
+        },
+        {
+          "backward": 0,
+          "forward": 87.297812,
+          "source": 14,
+          "target": 115
+        },
+        {
+          "backward": 1,
+          "forward": 0,
+          "source": 88,
+          "target": 116
+        },
+        {
+          "backward": 0,
+          "forward": 6264979,
+          "source": 14,
+          "target": 116
+        },
+        {
+          "backward": 196.779826,
+          "forward": 0,
+          "source": 2,
+          "target": 46
+        },
+        {
+          "backward": 69289941.848,
+          "forward": 513410895.166,
+          "source": 1,
+          "target": 14
+        },
+        {
+          "backward": 0,
+          "forward": 267738000,
+          "source": 9,
+          "target": 30
+        },
+        {
+          "backward": 0,
+          "forward": 5184952.68,
+          "source": 10,
+          "target": 13
+        },
+        {
+          "backward": 0,
+          "forward": 1043530,
+          "source": 14,
+          "target": 46
+        },
+        {
+          "backward": 0,
+          "forward": 620666.151431,
+          "source": 33,
+          "target": 41
+        },
+        {
+          "backward": 3129.0035810000004,
+          "forward": 1542.2071110000002,
+          "source": 2,
+          "target": 35
+        },
+        {
+          "backward": 0,
+          "forward": 122629949.445385,
+          "source": 24,
+          "target": 47
+        }
+      ],
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+      "links": [
+        {
+          "backward": 0,
+          "forward": 232335985.76509804,
+          "source": 40,
+          "target": 149
+        },
+        {
+          "backward": 0,
+          "forward": 70000000,
+          "source": 40,
+          "target": 45
+        },
+        {
+          "backward": 34701686.854157,
+          "forward": 0,
+          "source": 42,
+          "target": 47
+        },
+        {
+          "backward": 22776096.944202997,
+          "forward": 7049845.205343001,
+          "source": 2,
+          "target": 43
+        },
+        {
+          "backward": 0,
+          "forward": 1290161,
+          "source": 14,
+          "target": 43
+        },
+        {
+          "backward": 28012817.5,
+          "forward": 0,
+          "source": 44,
+          "target": 47
+        },
+        {
+          "backward": 0,
+          "forward": 65000420,
+          "source": 4,
+          "target": 44
+        },
+        {
+          "backward": 24450057.479900002,
+          "forward": 32497706.365693,
+          "source": 49,
+          "target": 61
+        },
+        {
+          "backward": 0,
+          "forward": 49949572.79015499,
+          "source": 49,
+          "target": 93
+        },
+        {
+          "backward": 0,
+          "forward": 65454397.90999998,
+          "source": 14,
+          "target": 49
+        },
+        {
+          "backward": 39015951.57,
+          "forward": 0,
+          "source": 49,
+          "target": 80
+        },
+        {
+          "backward": 79518830,
+          "forward": 0,
+          "source": 50,
+          "target": 81
+        },
+        {
+          "backward": 51480600,
+          "forward": 48366928.50000001,
+          "source": 47,
+          "target": 51
+        },
+        {
+          "backward": 0,
+          "forward": 73920626,
+          "source": 14,
+          "target": 53
+        },
+        {
+          "backward": 0,
+          "forward": 33850843.000019,
+          "source": 58,
+          "target": 82
+        },
+        {
+          "backward": 0,
+          "forward": 19001143,
+          "source": 14,
+          "target": 58
+        },
+        {
+          "backward": 0,
+          "forward": 1493272,
+          "source": 4,
+          "target": 58
+        },
+        {
+          "backward": 69210742.492566,
+          "forward": 88000000,
+          "source": 59,
+          "target": 76
+        },
+        {
+          "backward": 11245000,
+          "forward": 0,
+          "source": 2,
+          "target": 62
+        },
+        {
+          "backward": 1117222295.5000181,
+          "forward": 0,
+          "source": 6,
+          "target": 64
+        },
+        {
+          "backward": 0,
+          "forward": 50122481,
+          "source": 4,
+          "target": 64
+        },
+        {
+          "backward": 0,
+          "forward": 31963894,
+          "source": 3,
+          "target": 64
+        },
+        {
+          "backward": 0,
+          "forward": 149090300,
+          "source": 14,
+          "target": 64
+        },
+        {
+          "backward": 30862866,
+          "forward": 0,
+          "source": 64,
+          "target": 114
+        },
+        {
+          "backward": 0,
+          "forward": 42505905,
+          "source": 46,
+          "target": 64
+        },
+        {
+          "backward": 67283065.03932099,
+          "forward": 12000000,
+          "source": 65,
+          "target": 102
+        },
+        {
+          "backward": 4816484.8512,
+          "forward": 0,
+          "source": 77,
+          "target": 138
+        },
+        {
+          "backward": 0,
+          "forward": 1120091.6571149998,
+          "source": 2,
+          "target": 77
+        },
+        {
+          "backward": 25395557.784368,
+          "forward": 0,
+          "source": 2,
+          "target": 78
+        },
+        {
+          "backward": 81326813.999081,
+          "forward": 0,
+          "source": 63,
+          "target": 79
+        },
+        {
+          "backward": 84888451.22999999,
+          "forward": 8179518.98,
+          "source": 80,
+          "target": 93
+        },
+        {
+          "backward": 0,
+          "forward": 28393101.61,
+          "source": 14,
+          "target": 81
+        },
+        {
+          "backward": 18993741.8,
+          "forward": 40000000,
+          "source": 88,
+          "target": 116
+        },
+        {
+          "backward": 0,
+          "forward": 28938543,
+          "source": 14,
+          "target": 89
+        },
+        {
+          "backward": 0,
+          "forward": 6156579.218394999,
+          "source": 6,
+          "target": 90
+        },
+        {
+          "backward": 0,
+          "forward": 20879037.8,
+          "source": 14,
+          "target": 90
+        },
+        {
+          "backward": 10000000,
+          "forward": 0,
+          "source": 61,
+          "target": 93
+        },
+        {
+          "backward": 0,
+          "forward": 90739814.69000003,
+          "source": 14,
+          "target": 96
+        },
+        {
+          "backward": 0,
+          "forward": 9936061.496114,
+          "source": 3,
+          "target": 99
+        },
+        {
+          "backward": 0,
+          "forward": 15567677.390429,
+          "source": 2,
+          "target": 101
+        },
+        {
+          "backward": 0,
+          "forward": 89641.949491,
+          "source": 46,
+          "target": 104
+        },
+        {
+          "backward": 241205899.000001,
+          "forward": 0,
+          "source": 26,
+          "target": 106
+        },
+        {
+          "backward": 0,
+          "forward": 261205275,
+          "source": 14,
+          "target": 106
+        },
+        {
+          "backward": 4724523.569999999,
+          "forward": 997222.72,
+          "source": 13,
+          "target": 107
+        },
+        {
+          "backward": 16826575,
+          "forward": 0,
+          "source": 3,
+          "target": 108
+        },
+        {
+          "backward": 1247060,
+          "forward": 0,
+          "source": 46,
+          "target": 111
+        },
+        {
+          "backward": 948000,
+          "forward": 0,
+          "source": 2,
+          "target": 111
+        },
+        {
+          "backward": 0,
+          "forward": 5998803.7659330005,
+          "source": 2,
+          "target": 113
+        },
+        {
+          "backward": 0,
+          "forward": 4120372.356782,
+          "source": 46,
+          "target": 113
+        },
+        {
+          "backward": 0,
+          "forward": 57239883.23,
+          "source": 6,
+          "target": 114
+        },
+        {
+          "backward": 0,
+          "forward": 16221732.70187,
+          "source": 4,
+          "target": 117
+        },
+        {
+          "backward": 0,
+          "forward": 16204456.879999999,
+          "source": 14,
+          "target": 117
+        },
+        {
+          "backward": 0,
+          "forward": 16039238.02,
+          "source": 14,
+          "target": 118
+        },
+        {
+          "backward": 1000000.000001,
+          "forward": 0,
+          "source": 2,
+          "target": 119
+        },
+        {
+          "backward": 0,
+          "forward": 3164556.962,
+          "source": 4,
+          "target": 120
+        },
+        {
+          "backward": 0,
+          "forward": 1288072.4,
+          "source": 85,
+          "target": 120
+        },
+        {
+          "backward": 0,
+          "forward": 11086474.5011,
+          "source": 6,
+          "target": 120
+        },
+        {
+          "backward": 0,
+          "forward": 15386036.879999999,
+          "source": 14,
+          "target": 123
+        },
+        {
+          "backward": 0,
+          "forward": 15025206.04,
+          "source": 4,
+          "target": 124
+        },
+        {
+          "backward": 0,
+          "forward": 12030523,
+          "source": 47,
+          "target": 124
+        },
+        {
+          "backward": 0,
+          "forward": 2994763.04,
+          "source": 14,
+          "target": 124
+        },
+        {
+          "backward": 0,
+          "forward": 14999854,
+          "source": 14,
+          "target": 125
+        },
+        {
+          "backward": 0,
+          "forward": 14983863.056495,
+          "source": 4,
+          "target": 126
+        },
+        {
+          "backward": 0,
+          "forward": 14976743.45,
+          "source": 14,
+          "target": 127
+        },
+        {
+          "backward": 0,
+          "forward": 16144342.01,
+          "source": 14,
+          "target": 128
+        },
+        {
+          "backward": 0,
+          "forward": 10664498.36,
+          "source": 14,
+          "target": 129
+        },
+        {
+          "backward": 0,
+          "forward": 20379982.03,
+          "source": 130,
+          "target": 143
+        },
+        {
+          "backward": 0,
+          "forward": 35239834.28,
+          "source": 14,
+          "target": 130
+        },
+        {
+          "backward": 1,
+          "forward": 3193556.682218,
+          "source": 34,
+          "target": 132
+        },
+        {
+          "backward": 150000,
+          "forward": 0,
+          "source": 46,
+          "target": 133
+        },
+        {
+          "backward": 5523009,
+          "forward": 0,
+          "source": 2,
+          "target": 133
+        },
+        {
+          "backward": 11435049.67712,
+          "forward": 31694826.576944,
+          "source": 2,
+          "target": 134
+        },
+        {
+          "backward": 386403.372153,
+          "forward": 0,
+          "source": 2,
+          "target": 136
+        },
+        {
+          "backward": 0,
+          "forward": 16847810.49,
+          "source": 14,
+          "target": 137
+        },
+        {
+          "backward": 0,
+          "forward": 13418261,
+          "source": 47,
+          "target": 139
+        },
+        {
+          "backward": 2286239.050439,
+          "forward": 272260.99134,
+          "source": 2,
+          "target": 140
+        },
+        {
+          "backward": 0,
+          "forward": 816247.184128,
+          "source": 46,
+          "target": 140
+        },
+        {
+          "backward": 0,
+          "forward": 29783.701406,
+          "source": 86,
+          "target": 140
+        },
+        {
+          "backward": 0,
+          "forward": 6999802,
+          "source": 14,
+          "target": 141
+        },
+        {
+          "backward": 0,
+          "forward": 12707462.844683,
+          "source": 46,
+          "target": 142
+        },
+        {
+          "backward": 16890532.946299,
+          "forward": 16890532.946298998,
+          "source": 2,
+          "target": 144
+        },
+        {
+          "backward": 0,
+          "forward": 23932711.13,
+          "source": 14,
+          "target": 144
+        },
+        {
+          "backward": 0,
+          "forward": 2243859.1594000002,
+          "source": 47,
+          "target": 146
+        },
+        {
+          "backward": 0,
+          "forward": 6734994,
+          "source": 47,
+          "target": 147
+        },
+        {
+          "backward": 0,
+          "forward": 707999.2,
+          "source": 30,
+          "target": 147
+        },
+        {
+          "backward": 0,
+          "forward": 4659372.3,
+          "source": 14,
+          "target": 147
+        },
+        {
+          "backward": 0,
+          "forward": 998882.0795,
+          "source": 68,
+          "target": 147
+        },
+        {
+          "backward": 0,
+          "forward": 5622108.445965,
+          "source": 2,
+          "target": 46
+        },
+        {
+          "backward": 0,
+          "forward": 2865962.875366,
+          "source": 2,
+          "target": 86
+        },
+        {
+          "backward": 306827371,
+          "forward": 2381152834,
+          "source": 0,
+          "target": 5
+        },
+        {
+          "backward": 26608478163.685173,
+          "forward": 0,
+          "source": 0,
+          "target": 1
+        },
+        {
+          "backward": 0,
+          "forward": 5900000000,
+          "source": 0,
+          "target": 14
+        },
+        {
+          "backward": 1433089805.928,
+          "forward": 5000000000,
+          "source": 1,
+          "target": 14
+        },
+        {
+          "backward": 0,
+          "forward": 6500675.41,
+          "source": 6,
+          "target": 23
+        },
+        {
+          "backward": 1314146443.96,
+          "forward": 0,
+          "source": 7,
+          "target": 14
+        },
+        {
+          "backward": 0,
+          "forward": 1740200000,
+          "source": 9,
+          "target": 30
+        },
+        {
+          "backward": 147219114.81,
+          "forward": 40741984.93,
+          "source": 10,
+          "target": 13
+        },
+        {
+          "backward": 0,
+          "forward": 9000000,
+          "source": 11,
+          "target": 95
+        },
+        {
+          "backward": 530000000,
+          "forward": 0,
+          "source": 2,
+          "target": 11
+        },
+        {
+          "backward": 684686775.75,
+          "forward": 0,
+          "source": 12,
+          "target": 14
+        },
+        {
+          "backward": 99840,
+          "forward": 0,
+          "source": 2,
+          "target": 12
+        },
+        {
+          "backward": 0,
+          "forward": 559000000,
+          "source": 16,
+          "target": 68
+        },
+        {
+          "backward": 243000000,
+          "forward": 370500000,
+          "source": 16,
+          "target": 37
+        },
+        {
+          "backward": 0,
+          "forward": 256735284.41999996,
+          "source": 14,
+          "target": 25
+        },
+        {
+          "backward": 0,
+          "forward": 220190906.94,
+          "source": 14,
+          "target": 28
+        },
+        {
+          "backward": 52186607.058461,
+          "forward": 0,
+          "source": 29,
+          "target": 47
+        },
+        {
+          "backward": 0,
+          "forward": 10,
+          "source": 31,
+          "target": 34
+        },
+        {
+          "backward": 0,
+          "forward": 50000000,
+          "source": 33,
+          "target": 41
+        },
+        {
+          "backward": 0,
+          "forward": 4811828.259469,
+          "source": 2,
+          "target": 35
+        },
+        {
+          "backward": 0,
+          "forward": 11263190.670000002,
+          "source": 14,
+          "target": 36
+        },
+        {
+          "backward": 207246665,
+          "forward": 376585000,
+          "source": 37,
+          "target": 68
+        },
+        {
+          "backward": 0,
+          "forward": 138263628,
+          "source": 13,
+          "target": 85
+        },
+        {
+          "backward": 0,
+          "forward": 60000000,
+          "source": 15,
+          "target": 34
+        },
+        {
+          "backward": 0,
+          "forward": 170010000,
+          "source": 15,
+          "target": 31
+        },
+        {
+          "backward": 0,
+          "forward": 30000000,
+          "source": 15,
+          "target": 114
+        },
+        {
+          "backward": 280431012,
+          "forward": 400000000,
+          "source": 18,
+          "target": 19
+        },
+        {
+          "backward": 0,
+          "forward": 2984610000,
+          "source": 24,
+          "target": 47
+        }
+      ],
+      "name": "BOOK OF MEME",
+      "symbol": "BOME"
+    }
+  ],
+  "top_500": false,
+  "version": 5
+}
