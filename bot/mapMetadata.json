@@ -1,10 +1,10 @@
 {
-  "decentralisation_score": 24.71,
-  "dt_update": "2025-04-07 00:37:14.275829+00:00",
+  "decentralisation_score": 55.72,
+  "dt_update": "2024-12-08 13:00:32.653742+00:00",
   "identified_supply": {
-    "percent_in_cexs": 29.67,
-    "percent_in_contracts": 15.12
+    "percent_in_cexs": 0,
+    "percent_in_contracts": 3.28
   },
   "status": "OK",
-  "ts_update": 1743986234
+  "ts_update": 1733662832
 }

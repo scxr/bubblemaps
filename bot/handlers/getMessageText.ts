@@ -62,6 +62,7 @@ function buildTop5Holders(mapData: MapData) {
 }
 
 export async function getMessageText(tokenAddress: string, chain: string) {
+    console.log(tokenAddress, chain)
     const [mapData, mapMetadata] = await Promise.all([getMapData(tokenAddress, chain), getMapMetadata(tokenAddress, chain)]);
     
     console.log(mapData);
